@@ -1,6 +1,6 @@
 # Datenschutzerklärung für die App „Momento“
 
-Stand: 26. Oktober 2026
+Stand: 17. November 2026
 
 ## 1. Verantwortlicher
 
@@ -21,6 +21,8 @@ Momento ist eine App für deinen eigenen Nextcloud-Server. Die App spricht nur m
 Erlaubst du den Zugriff auf deine Fotomediathek, liest Momento deine Fotos und Videos samt Metadaten (z. B. Aufnahmedatum, Kamera, Ort). Damit lädt die App sie auf deinen Nextcloud-Server hoch und erkennt, was dort schon liegt. Wenn du das einstellst, löscht Momento bereits hochgeladene Fotos vom Gerät. iOS fragt dich vorher jedes Mal um Bestätigung.
 
 Für die Suche nach doppelten Fotos vergleicht die App die Bilder ausschließlich auf deinem iPhone oder iPad (Apple Vision). Dabei verlassen keine Daten das Gerät.
+
+Mit Momento Pro kann die App deine Fotos analysieren, damit die Suche sie findet: Schlagwörter, Text und Dokumente erkennt sie ausschließlich auf deinem Gerät (Apple Vision). Ist „Ergebnisse in Nextcloud speichern“ an, landen die Schlagwörter als Tags und der erkannte Text als versteckte Eigenschaft an der Datei des Fotos – nur auf deinem eigenen Server, damit deine anderen Geräte nicht erneut analysieren müssen. Beides schaltest du unter Einstellungen → Foto-Analyse ab.
 
 ### 3.2 Daten von deinem Nextcloud-Server
 

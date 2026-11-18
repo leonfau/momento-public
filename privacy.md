@@ -1,6 +1,6 @@
 # Privacy Policy for the App “Momento”
 
-Last updated: 26 October 2026
+Last updated: 17 November 2026
 
 ## 1. Controller
 
@@ -21,6 +21,8 @@ Momento is an app for your own Nextcloud server. It only talks to the server you
 If you allow access to your photo library, Momento reads your photos and videos with their metadata (for example date taken, camera and location). It uses them to upload the photos to your Nextcloud server and to see what is already there. If you turn this on, Momento deletes photos from your device once they are uploaded. iOS asks you to confirm every time.
 
 To find duplicate photos, the app compares images on your iPhone or iPad only (Apple Vision). No data leaves the device for this.
+
+With Momento Pro, the app can analyse your photos to make them searchable: it recognises keywords, text and documents on your device only (Apple Vision). If you turn on "Save results in Nextcloud", the keywords are stored as tags and the recognised text as a hidden property on the photo's file – on your own server only, so your other devices don't need to analyse again. You can turn both off in Settings → Photo Analysis.
 
 ### 3.2 Data from your Nextcloud server
 
