@@ -6,7 +6,7 @@ Questions, problems or ideas about Momento? Email me: leon.fausten@posteo.de
 ## Häufige Fragen
 
 **Was brauche ich für Momento?**  
-Einen eigenen Nextcloud-Server mit der App „Fotos“. Empfohlen ist „Preview Generator“, für Personen-Alben und Tags zusätzlich „Recognize“. „Memories“ braucht Momento nicht.
+Einen eigenen Nextcloud-Server mit der App „Fotos“. Empfohlen ist „Preview Generator“, für Personen-Alben und Tags zusätzlich „Recognize“.
 
 **Die Anmeldung klappt nicht.**  
 Prüfe, ob die Serveradresse stimmt und der Server von außen per HTTPS erreichbar ist. Momento nennt im Fehlerfall den Grund, z. B. Zertifikat, Server nicht erreichbar oder Serverfehler.
@@ -20,7 +20,7 @@ In den Einstellungen deines Geräts unter deinem Apple Account → Abonnements.
 ## FAQ
 
 **What do I need for Momento?**  
-Your own Nextcloud server with the "Photos" app. "Preview Generator" is recommended, plus "Recognize" for people albums and tags. Momento doesn't need "Memories".
+Your own Nextcloud server with the "Photos" app. "Preview Generator" is recommended, plus "Recognize" for people albums and tags.
 
 **Login doesn't work.**  
 Check that the server address is correct and the server is reachable from outside over HTTPS. When it fails, Momento names the reason, for example certificate, server unreachable or server error.
