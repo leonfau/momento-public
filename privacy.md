@@ -38,9 +38,9 @@ You log in through the official Nextcloud login in the browser, so the app never
 
 When you share photos or videos “to Momento” from another app, the share extension reads your login from the iOS keychain and uploads the files straight to your Nextcloud server. The files are kept on the device only briefly for this and deleted afterwards.
 
-### 3.5 Momento Pro (subscription)
+### 3.5 Momento Pro (subscription or one-time purchase)
 
-You buy Momento Pro as a subscription through the App Store. Apple handles payment and billing; the developer receives neither your name nor your payment details. The app only learns from Apple whether a subscription is active and remembers this locally on the device. Apple's privacy policy applies to purchases: https://www.apple.com/legal/privacy/
+You buy Momento Pro as a subscription or a one-time purchase through the App Store; with Family Sharing your family can use it too. Apple handles payment and billing; the developer receives neither your name nor your payment details. The app only learns from Apple whether a purchase is valid and remembers this locally on the device. Apple's privacy policy applies to purchases: https://www.apple.com/legal/privacy/
 
 ### 3.6 Settings
 
@@ -50,7 +50,7 @@ Settings such as the cache size, recent searches or whether videos play muted ar
 
 - **Your Nextcloud server:** All photos, videos and metadata go only to the server address you enter, encrypted over HTTPS. The data there is the responsibility of the server's operator, which is you or, for example, your hosting provider. Their privacy policy applies.
 - **Apple Maps:** The map view uses Apple MapKit. iOS loads map data from Apple, so Apple learns the map area shown and your IP address. The app does not send your photos or their location data to Apple. More at https://www.apple.com/legal/privacy/
-- **Apple App Store:** To buy, restore and check the subscription, iOS talks to the App Store (see 3.5).
+- **Apple App Store:** To buy, restore and check the purchase, iOS talks to the App Store (see 3.5).
 - **Sharing:** When you share photos through the iOS share sheet, they go to the app or person you choose.
 - **Crash reports:** If you allow iOS to share analytics with app developers, the developer receives anonymous crash reports through Apple. You control this under Settings → Privacy & Security → Analytics & Improvements.
 

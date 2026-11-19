@@ -38,9 +38,9 @@ Die Anmeldung läuft über den offiziellen Nextcloud-Login im Browser. Dein Pass
 
 Teilst du aus einer anderen App Fotos oder Videos „nach Momento“, liest die Teilen-Erweiterung dafür deine Anmeldedaten aus dem iOS-Schlüsselbund und lädt die Dateien direkt auf deinen Nextcloud-Server. Die Dateien werden dazu nur kurz auf dem Gerät zwischengespeichert und danach gelöscht.
 
-### 3.5 Momento Pro (Abo)
+### 3.5 Momento Pro (Abo oder Einmalkauf)
 
-Momento Pro kaufst du als Abo über den App Store. Bezahlung und Abrechnung übernimmt Apple; der Entwickler bekommt dabei weder deinen Namen noch deine Zahlungsdaten. Die App erfährt von Apple nur, ob ein Abo aktiv ist, und merkt sich das lokal auf dem Gerät. Für Käufe gilt die Datenschutzerklärung von Apple: https://www.apple.com/de/legal/privacy/
+Momento Pro kaufst du als Abo oder als Einmalkauf über den App Store; mit der Familienfreigabe kann deine Familie es mitnutzen. Bezahlung und Abrechnung übernimmt Apple; der Entwickler bekommt dabei weder deinen Namen noch deine Zahlungsdaten. Die App erfährt von Apple nur, ob ein Kauf gilt, und merkt sich das lokal auf dem Gerät. Für Käufe gilt die Datenschutzerklärung von Apple: https://www.apple.com/de/legal/privacy/
 
 ### 3.6 Einstellungen
 
@@ -50,7 +50,7 @@ Einstellungen wie die Größe des Zwischenspeichers, zuletzt gesuchte Begriffe o
 
 - **Dein Nextcloud-Server:** Alle Fotos, Videos und Metadaten gehen ausschließlich an die Serveradresse, die du einträgst, verschlüsselt über HTTPS. Verantwortlich für die Daten dort ist der Betreiber des Servers, also du selbst oder z. B. dein Anbieter. Es gilt dessen Datenschutzerklärung.
 - **Apple Karten:** Die Kartenansicht nutzt Apple MapKit. Dabei lädt iOS Kartenmaterial von Apple, und Apple erfährt den angezeigten Kartenausschnitt und deine IP-Adresse. Fotos oder deren Ortsdaten überträgt die App dabei nicht an Apple. Mehr dazu: https://www.apple.com/de/legal/privacy/
-- **Apple App Store:** Für Kauf, Wiederherstellung und Prüfung des Abos spricht iOS mit dem App Store (siehe 3.5).
+- **Apple App Store:** Für Kauf, Wiederherstellung und Prüfung des Kaufs spricht iOS mit dem App Store (siehe 3.5).
 - **Teilen:** Teilst du Fotos über das iOS-Teilen-Menü, gehen sie an die App oder Person, die du auswählst.
 - **Absturzberichte:** Hast du in iOS die Weitergabe von Analysedaten an Entwickler erlaubt, bekommt der Entwickler über Apple anonyme Absturzberichte. Das steuerst du unter Einstellungen → Datenschutz & Sicherheit → Analyse & Verbesserungen.
 
